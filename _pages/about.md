@@ -12,3 +12,8 @@ I am a junior undergraduate student at [Peking University](https://www.pku.edu.c
 My research interests primarily focus on:
 1.	Enhancing the capabilities of foundation models.
 2.	Adapting foundation models more effectively to the field of agents, aiming to construct agents with general intelligence（eg. social interaction, adaptive decision-making, long-horizon planning).
+
+
+##News
+
+##Awards
