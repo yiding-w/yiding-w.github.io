@@ -16,8 +16,8 @@ My research interests primarily focus on:
 
 ## News
 
-24/12/06 Our team (BIGAI NLCo) ranked **#9** in the NeurIPS 2024 Concordia Contest!  
-24/10/11 Gave a talk on **Speculative Decoding** in GraphPKU Lab.
+24/12/06: Our team (BIGAI NLCo) ranked **#9** in the NeurIPS 2024 Concordia Contest!  
+24/10/11: Gave a talk on **Speculative Decoding** in GraphPKU Lab.
 
 ## Awards
  
