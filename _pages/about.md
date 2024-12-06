@@ -13,6 +13,7 @@ My research interests primarily focus on:
 1.	Enhancing the capabilities of foundation models.
 2.	Adapting foundation models more effectively to the field of agents, aiming to construct agents with general intelligence（eg. social interaction, adaptive decision-making, long-horizon planning).
 
+You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_v1.pdf)
 
 ## News
 
