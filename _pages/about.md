@@ -18,7 +18,8 @@ My research interests primarily focus on:
 
 ## Awards
  
-Peking University Scholarship (¥4000 RMB)  2024 \\
-Peking University Practice and Public Welfare Award 2024 \\
-Yanchuang Scholarship (¥8000 RMB)  2023 \\
-Peking University Excellent Student Award  2023
+Peking University Scholarship (¥4000 RMB)  2024  
+Peking University Practice and Public Welfare Award 2024  
+Yanchuang Scholarship (¥8000 RMB)  2023  
+Peking University Excellent Student Award  2023  
+
