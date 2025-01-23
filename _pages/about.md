@@ -17,6 +17,7 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## News
 
+25/01/23: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025** !  
 24/12/10: Happy to introduce our new work about **Desire-driven Autonomous Agent (D2A)**! Click [here](https://sites.google.com/view/desire-driven-autonomy) for more details.  
 24/12/06: Our team (BIGAI NLCo) ranked **#9** in the NeurIPS 2024 Concordia Contest!  
 24/10/11: Gave a talk on **Speculative Decoding** in GraphPKU Lab.
