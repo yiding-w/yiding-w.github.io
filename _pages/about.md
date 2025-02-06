@@ -23,7 +23,7 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 24/10/11: Gave a talk on **Speculative Decoding** in GraphPKU Lab.
 
 ## Publications
-(In Submission) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.  
+(ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.  
 (Arxiv) [Chain of Images for Intuitively Reasoning](https://arxiv.org/abs/2311.09241), Fanxu Meng, Haotong Yang, **Yiding Wang**, Muhan Zhang.  
 
 
