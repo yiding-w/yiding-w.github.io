@@ -34,5 +34,9 @@ Peking University Practice and Public Welfare Award 2024
 Yanchuang Capital Scholarship (¥8000 RMB)  2023  
 Peking University Excellent Student Award  2023  
 
+## Visit Map
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&cl=ffffff&w=a"></script>
+
 
 
