@@ -36,7 +36,7 @@ Peking University Excellent Student Award  2023
 
 ## Pageviewers
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&co=2d98ad&cmo=d8872d&cmn=fce780'></script>
 
 
 
