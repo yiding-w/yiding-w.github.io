@@ -26,16 +26,12 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## Selected Papers
 
-![](../images/截屏2025-06-13\ 15.52.33.png) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
+![](images/D2A) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
 
 
-| | |
-|---|---|
-|  | (Arxiv) [HD-PiSSA: High-Rank Distributed Orthogonal Adaptation](https://arxiv.org/abs/2505.18777)\<br\>**Yiding Wang\***, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang |
+![](images/HD-PiSSA) (Arxiv) [HD-PiSSA: High-Rank Distributed Orthogonal Adaptation](https://arxiv.org/abs/2505.18777)\<br\>**Yiding Wang\***, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang |
 
-| | |
-|---|---|
-|  | (Arxiv) [Chain of Images for Intuitively Reasoning](https://arxiv.org/abs/2311.09241)\<br\>Fanxu Meng, Haotong Yang, **Yiding Wang**, Muhan Zhang |
+![](images/CoI) (Arxiv) [Chain of Images for Intuitively Reasoning](https://arxiv.org/abs/2311.09241)\<br\>Fanxu Meng, Haotong Yang, **Yiding Wang**, Muhan Zhang |
 
 -----
 
