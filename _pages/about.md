@@ -25,10 +25,31 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 - 24/10/11: Gave a talk on **Speculative Decoding** in GraphPKU Lab.
 
 ## Selected Papers
-(ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.  
-(Arxiv) [HD-PiSSA: High-Rank Distributed Orthogonal Adaptation](https://arxiv.org/abs/2505.18777), **Yiding Wang\***, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang
-(Arxiv) [Chain of Images for Intuitively Reasoning](https://arxiv.org/abs/2311.09241), Fanxu Meng, Haotong Yang, **Yiding Wang**, Muhan Zhang.  
+-----
 
+## Simulating Human-like Daily Activities with Desire-driven Autonomy
+
+| | |
+|---|---|
+|  | (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435)\<br\>**Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang |
+
+-----
+
+## High-Rank Distributed Orthogonal Adaptation
+
+| | |
+|---|---|
+|  | (Arxiv) [HD-PiSSA: High-Rank Distributed Orthogonal Adaptation](https://arxiv.org/abs/2505.18777)\<br\>**Yiding Wang\***, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang |
+
+-----
+
+## Chain of Images for Intuitively Reasoning
+
+| | |
+|---|---|
+|  | (Arxiv) [Chain of Images for Intuitively Reasoning](https://arxiv.org/abs/2311.09241)\<br\>Fanxu Meng, Haotong Yang, **Yiding Wang**, Muhan Zhang |
+
+-----
 
 ## Awards
 
