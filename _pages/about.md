@@ -30,11 +30,11 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## Awards
 
-SenseTime Scholarship 2025 (¥20000 RMB) (**only 30 winners**) 2025  
-Peking University Scholarship (¥4000 RMB)  2024  
-Peking University Practice and Public Welfare Award 2024  
-Yanchuang Capital Scholarship (¥8000 RMB)  2023  
-Peking University Excellent Student Award  2023  
+- SenseTime Scholarship 2025 (¥20000 RMB) (**only 30 winners**) 2025  
+- Peking University Scholarship (¥4000 RMB)  2024  
+- Peking University Practice and Public Welfare Award 2024  
+- Yanchuang Capital Scholarship (¥8000 RMB)  2023  
+- Peking University Excellent Student Award  2023  
 
 ## Pageviewers
 
