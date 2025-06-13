@@ -29,10 +29,7 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## Simulating Human-like Daily Activities with Desire-driven Autonomy
 
-| | |
-|---|---|
-|  | (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435)\<br\>**Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang |
-
+![小图](https://placehold.co/50x50) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
 -----
 
 ## High-Rank Distributed Orthogonal Adaptation
