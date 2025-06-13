@@ -26,29 +26,11 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## Selected Papers
 
-\<div style="display: flex; align-items: flex-start; margin-bottom: 20px;"\>
-\<img src="images/D2A" alt="Simulating Human-like Daily Activities with Desire-driven Autonomy" style="width: 150px; height: 100px; object-fit: cover; margin-right: 20px;"\>
-\<div\>
-\<p\>(ICLR 2025) \<a href="[https://arxiv.org/abs/2412.06435](https://arxiv.org/abs/2412.06435)"\>Simulating Human-like Daily Activities with Desire-driven Autonomy\</a\>\</p\>
-\<p\>\<strong\>Yiding Wang\*\</strong\>, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.\</p\>
-\</div\>
-\</div\>
+![height:80,width:80](images/D2A) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
 
-\<div style="display: flex; align-items: flex-start; margin-bottom: 20px;"\>
-\<img src="images/HD-PiSSA" alt="HD-PiSSA: High-Rank Distributed Orthogonal Adaptation" style="width: 150px; height: 100px; object-fit: cover; margin-right: 20px;"\>
-\<div\>
-\<p\>(Arxiv) \<a href="[https://arxiv.org/abs/2505.18777](https://arxiv.org/abs/2505.18777)"\>HD-PiSSA: High-Rank Distributed Orthogonal Adaptation\</a\>\</p\>
-\<p\>\<strong\>Yiding Wang\*\</strong\>, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang\</p\>
-\</div\>
-\</div\>
+![height:80,width:80](images/HD-PiSSA) (Arxiv) [HD-PiSSA: High-Rank Distributed Orthogonal Adaptation](https://arxiv.org/abs/2505.18777)\<br\>**Yiding Wang\***, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang 
 
-\<div style="display: flex; align-items: flex-start; margin-bottom: 20px;"\>
-\<img src="images/CoI" alt="Chain of Images for Intuitively Reasoning" style="width: 150px; height: 100px; object-fit: cover; margin-right: 20px;"\>
-\<div\>
-\<p\>(Arxiv) \<a href="[https://arxiv.org/abs/2311.09241](https://arxiv.org/abs/2311.09241)"\>Chain of Images for Intuitively Reasoning\</a\>\</p\>
-\<p\>Fanxu Meng, Haotong Yang, \<strong\>Yiding Wang\</strong\>, Muhan Zhang\</p\>
-\</div\>
-\</div\>
+![height:80,width:80](images/CoI) (Arxiv) [Chain of Images for Intuitively Reasoning](https://arxiv.org/abs/2311.09241)\<br\>Fanxu Meng, Haotong Yang, **Yiding Wang**, Muhan Zhang 
 
 ## Awards
 
