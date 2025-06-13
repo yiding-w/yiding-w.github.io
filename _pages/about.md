@@ -26,22 +26,32 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## Selected Papers
 
-<span style="display: inline-block; width: 100px; vertical-align: middle;">
-  <img src="images/D2A" style="width: 100%; height: auto; vertical-align: middle; margin-right: 10px;" />
-</span> 
-(ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.  
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="images/D2A" style="width: 180px; height: auto; margin-right: 12px;" />
+  <div>
+    <strong>(ICLR 2025)</strong>
+    <a href="https://arxiv.org/abs/2412.06435">Simulating Human-like Daily Activities with Desire-driven Autonomy</a>,  
+    <strong>Yiding Wang*</strong>, Yuxuan Chen*, Fangwei Zhong, Long Ma, Yizhou Wang.
+  </div>
+</div>
 
-<span style="display: inline-block; width: 100px; vertical-align: middle;">
-  <img src="images/HD-PiSSA" style="width: 100%; height: auto; vertical-align: middle; margin-right: 10px;" />
-</span> 
-(Arxiv) [HD-PiSSA: High-Rank Distributed Orthogonal Adaptation](https://arxiv.org/abs/2505.18777)  
-**Yiding Wang\***, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang  
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="images/HD-PiSSA" style="width: 180px; height: auto; margin-right: 12px;" />
+  <div>
+    <strong>(Arxiv)</strong>
+    <a href="https://arxiv.org/abs/2505.18777">HD-PiSSA: High-Rank Distributed Orthogonal Adaptation</a>,  
+    <strong>Yiding Wang*</strong>, Fauxu Meng*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang.
+  </div>
+</div>
 
-<span style="display: inline-block; width: 100px; vertical-align: middle;">
-  <img src="images/CoI" style="width: 100%; height: auto; vertical-align: middle; margin-right: 10px;" />
-</span> 
-(Arxiv) [Chain of Images for Intuitively Reasoning](https://arxiv.org/abs/2311.09241)  
-Fanxu Meng, Haotong Yang, **Yiding Wang**, Muhan Zhang  
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="images/CoI" style="width: 180px; height: auto; margin-right: 12px;" />
+  <div>
+    <strong>(Arxiv)</strong>
+    <a href="https://arxiv.org/abs/2311.09241">Chain of Images for Intuitively Reasoning</a>,  
+    Fanxu Meng, Haotong Yang, <strong>Yiding Wang</strong>, Muhan Zhang.
+  </div>
+</div>
 
 ## Awards
 
