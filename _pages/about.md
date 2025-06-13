@@ -26,7 +26,7 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## Selected Papers
 
-![](../images/截屏2025-06-13 15.52.33.png) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
+![](../images/截屏2025-06-13\ 15.52.33.png) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
 
 
 | | |
