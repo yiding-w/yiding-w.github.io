@@ -17,6 +17,7 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 ## News
 
+25/06/12: I'm honored to be 1/30 of SenseTime Scholarship 2025!
 25/01/23: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025** !  
 24/12/10: Happy to introduce our new work about **Desire-driven Autonomous Agent (D2A)**! Click [here](https://sites.google.com/view/desire-driven-autonomy) for more details.  
 24/12/06: Our team (BIGAI NLCo) ranked **#9** in the NeurIPS 2024 Concordia Contest!  
@@ -28,7 +29,8 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 
 
 ## Awards
- 
+
+SenseTime Scholarship 2025 (¥20000 RMB) (only 30 winners) 2025
 Peking University Scholarship (¥4000 RMB)  2024  
 Peking University Practice and Public Welfare Award 2024  
 Yanchuang Capital Scholarship (¥8000 RMB)  2023  
