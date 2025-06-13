@@ -25,22 +25,13 @@ You can find my CV here: [Yiding Wang's curriculum vitae](../assets/CV_12.11.pdf
 - 24/10/11: Gave a talk on **Speculative Decoding** in GraphPKU Lab.
 
 ## Selected Papers
------
 
-## Simulating Human-like Daily Activities with Desire-driven Autonomy
+![](../images/截屏2025-06-13 15.52.33.png) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
 
-![小图](https://placehold.co/50x50) (ICLR 2025) [Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435), **Yiding Wang\***, Yuxuan Chen\*, Fangwei Zhong, Long Ma, Yizhou Wang.
------
-
-## High-Rank Distributed Orthogonal Adaptation
 
 | | |
 |---|---|
 |  | (Arxiv) [HD-PiSSA: High-Rank Distributed Orthogonal Adaptation](https://arxiv.org/abs/2505.18777)\<br\>**Yiding Wang\***, Fauxu Meng\*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang |
-
------
-
-## Chain of Images for Intuitively Reasoning
 
 | | |
 |---|---|
