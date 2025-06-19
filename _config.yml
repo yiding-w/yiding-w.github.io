@@ -21,7 +21,7 @@ repository               : "https://github.com/yiding-w/yiding-w.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tong.png"
+  avatar           : "美签照片.jpeg"
   name             : "Yiding Wang"
   pronouns         : # example: "she/her"  
   bio              : "I am Yiding Wang, an undergraduate student in Yuanpei College, Peking University."
