@@ -15,6 +15,7 @@ In general, my research interests lie in:
 
 
 ## News
+{: .news-section}
 
 - 25/07/12: I'm honored to receive the **Tong Class Dean's Scholarship!**
 - 25/06/12: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
@@ -26,38 +27,46 @@ In general, my research interests lie in:
 
 ## Selected Papers
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="images/D2A" style="width: 180px; height: auto; margin-right: 12px;" />
-  <div>
-    <strong>(ICLR 2025)</strong>
-    <a href="https://arxiv.org/abs/2412.06435">Simulating Human-like Daily Activities with Desire-driven Autonomy</a>,  
-    <strong>Yiding Wang*</strong>, Yuxuan Chen*, Fangwei Zhong, Long Ma, Yizhou Wang.
+<div class="publication-card">
+  <img src="images/D2A" alt="D2A" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">ICLR 2025</span>
+    <a href="https://arxiv.org/abs/2412.06435" class="publication-title">Simulating Human-like Daily Activities with Desire-driven Autonomy</a>
+    <div class="publication-authors">
+      <strong>Yiding Wang*</strong>, Yuxuan Chen*, Fangwei Zhong, Long Ma, Yizhou Wang.
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="images/HD-PiSSA" style="width: 180px; height: auto; margin-right: 12px;" />
-  <div>
-    <strong>(Arxiv)</strong>
-    <a href="https://arxiv.org/abs/2505.18777">HD-PiSSA: High-Rank Distributed Orthogonal Adaptation</a>,  
-    <strong>Yiding Wang*</strong>, Fauxu Meng*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang.
+<div class="publication-card">
+  <img src="images/HD-PiSSA" alt="HD-PiSSA" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">Arxiv</span>
+    <a href="https://arxiv.org/abs/2505.18777" class="publication-title">HD-PiSSA: High-Rank Distributed Orthogonal Adaptation</a>
+    <div class="publication-authors">
+      <strong>Yiding Wang*</strong>, Fauxu Meng*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang.
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="images/CoI" style="width: 180px; height: auto; margin-right: 12px;" />
-  <div>
-    <strong>(Arxiv)</strong>
-    <a href="https://arxiv.org/abs/2311.09241">Chain of Images for Intuitively Reasoning</a>,  
-    Fanxu Meng, Haotong Yang, <strong>Yiding Wang</strong>, Muhan Zhang.
+<div class="publication-card">
+  <img src="images/CoI" alt="CoI" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">Arxiv</span>
+    <a href="https://arxiv.org/abs/2311.09241" class="publication-title">Chain of Images for Intuitively Reasoning</a>
+    <div class="publication-authors">
+      Fanxu Meng, Haotong Yang, <strong>Yiding Wang</strong>, Muhan Zhang.
+    </div>
   </div>
 </div>
 
 ## Service
+{: .service-section}
 
 - AAAI 2026 (Social Impact Track) Reviewer.
 
 ## Awards
+{: .awards-section}
 
 - Tong Class Dean's Scholarship (¥10000 RMB)  2025
 - SenseTime Scholarship 2025 (¥20000 RMB) (**only 30 winners**) 2025  
