@@ -19,6 +19,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 
 
 ## News
+{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
 - **25/07/12**: I'm honored to receive the **Tong Class Dean's Scholarship!**
 - **25/06/12**: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
@@ -87,10 +88,12 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 </style>
 
 ## Service
+{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
 - **AAAI 2026** (Social Impact Track) Reviewer
 
 ## Awards
+{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
 - **Tong Class Dean's Scholarship** (¥10,000 RMB) — 2025
 - **SenseTime Scholarship 2025** (¥20,000 RMB) — 2025 (*Only 30 winners nationwide*)
@@ -100,6 +103,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 - **Peking University Excellent Student Award** — 2023  
 
 ## Pageviewers
+{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&co=2d98ad&cmo=d8872d&cmn=fce780'></script>
 
