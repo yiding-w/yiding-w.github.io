@@ -33,7 +33,7 @@ In general, my research interests lie in:
 {: style="color: #2d3748; font-size: 2rem; font-weight: 700; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
 
 <div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/D2A" alt="D2A" style="width: 180px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0;" />
+  <img src="images/D2A" alt="D2A" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
   <div style="flex: 1; min-width: 0;">
     <span style="display: inline-block; background: #4a5568; color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">ICLR 2025</span>
     <br>
@@ -45,9 +45,9 @@ In general, my research interests lie in:
 </div>
 
 <div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/HD-PiSSA" alt="HD-PiSSA" style="width: 180px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0;" />
+  <img src="images/HD-PiSSA" alt="HD-PiSSA" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
   <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">Arxiv</span>
+    <span style="display: inline-block; background: #4a5568; color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">Arxiv</span>
     <br>
     <a href="https://arxiv.org/abs/2505.18777" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">HD-PiSSA: High-Rank Distributed Orthogonal Adaptation</a>
     <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
@@ -57,9 +57,9 @@ In general, my research interests lie in:
 </div>
 
 <div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/CoI" alt="CoI" style="width: 180px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0;" />
+  <img src="images/CoI" alt="CoI" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
   <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">Arxiv</span>
+    <span style="display: inline-block; background: #4a5568; color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">Arxiv</span>
     <br>
     <a href="https://arxiv.org/abs/2311.09241" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Chain of Images for Intuitively Reasoning</a>
     <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
@@ -86,18 +86,18 @@ In general, my research interests lie in:
 </style>
 
 ## Service
-{: style="color: #38a169; font-size: 2rem; font-weight: 700; border-bottom: 3px solid #38a169; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
+{: style="color: #2d3748; font-size: 2rem; font-weight: 700; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
 
-<div style="background: linear-gradient(135deg, #f0fff4 0%, #c6f6d5 100%); border-left: 5px solid #48bb78; padding: 1.5rem; margin: 2rem 0; border-radius: 0 8px 8px 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);">
+<div style="background: #f8fafc; border-left: 4px solid #4a5568; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);">
 
 - AAAI 2026 (Social Impact Track) Reviewer.
 
 </div>
 
 ## Awards
-{: style="color: #e53e3e; font-size: 2rem; font-weight: 700; border-bottom: 3px solid #e53e3e; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
+{: style="color: #2d3748; font-size: 2rem; font-weight: 700; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
 
-<div style="background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 100%); border-left: 5px solid #f56565; padding: 1.5rem; margin: 2rem 0; border-radius: 0 8px 8px 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);">
+<div style="background: #f8fafc; border-left: 4px solid #4a5568; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);">
 
 - Tong Class Dean's Scholarship (¥10000 RMB)  2025
 - SenseTime Scholarship 2025 (¥20000 RMB) (**only 30 winners**) 2025  
