@@ -53,6 +53,10 @@ In general, my research interests lie in:
   </div>
 </div>
 
+## Service
+
+- AAAI 2026 (Social Impact Track) Reviewer.
+
 ## Awards
 
 - Tong Class Dean's Scholarship (¥10000 RMB)  2025
