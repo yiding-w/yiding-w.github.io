@@ -15,9 +15,9 @@ In general, my research interests lie in:
 
 
 ## News
-{: style="color: #667eea; font-size: 2rem; font-weight: 700; border-bottom: 3px solid #667eea; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
+{: style="color: #2d3748; font-size: 2rem; font-weight: 700; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
 
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0; border-radius: 0 8px 8px 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);">
+<div style="background: #f8fafc; border-left: 4px solid #4a5568; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);">
 
 - 25/07/12: I'm honored to receive the **Tong Class Dean's Scholarship!**
 - 25/06/12: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
@@ -30,12 +30,12 @@ In general, my research interests lie in:
 </div>
 
 ## Selected Papers
-{: style="color: #667eea; font-size: 2rem; font-weight: 700; border-bottom: 3px solid #667eea; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
+{: style="color: #2d3748; font-size: 2rem; font-weight: 700; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1.5rem;"}
 
 <div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
   <img src="images/D2A" alt="D2A" style="width: 180px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0;" />
   <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">ICLR 2025</span>
+    <span style="display: inline-block; background: #4a5568; color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">ICLR 2025</span>
     <br>
     <a href="https://arxiv.org/abs/2412.06435" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Simulating Human-like Daily Activities with Desire-driven Autonomy</a>
     <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
