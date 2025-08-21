@@ -21,7 +21,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 ## News
 {: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
-- **25/08/21**: **[HD-PiSSA](https://arxiv.org/abs/2505.18777)** has been accepted to **EMNLP 2025 Main Conference!**  
+- **25/08/21**: Our paper: **[HD-PiSSA](https://arxiv.org/abs/2505.18777)** has been accepted to **EMNLP 2025 Main Conference!**  
 - **25/07/12**: I'm honored to receive the **Tong Class Dean's Scholarship!**
 - **25/06/12**: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
 - **25/05/24**: One Paper: **HD-PiSSA** released on [Arxiv](https://arxiv.org/abs/2505.18777)
