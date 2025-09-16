@@ -36,7 +36,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 <div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
   <img src="images/HD-PiSSA" alt="HD-PiSSA" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
   <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">EMNLP 2025</span>
+    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">EMNLP 2025 Oral</span>
     <br>
     <a href="https://arxiv.org/abs/2505.18777" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">HD-PiSSA: High-Rank Distributed Orthogonal Adaptation</a>
     <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
