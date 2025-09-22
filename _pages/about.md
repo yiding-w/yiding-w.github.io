@@ -25,9 +25,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 - **25/08/21**: Our paper: **[HD-PiSSA](https://arxiv.org/abs/2505.18777)** has been accepted to **EMNLP 2025 Main Conference！** <span style="color: red; font-weight: bold;">(ORAL)  
 - **25/07/12**: I'm honored to receive the **Tong Class Dean's Scholarship!**
 - **25/06/12**: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
-- **25/05/24**: One Paper: **HD-PiSSA** released on [Arxiv](https://arxiv.org/abs/2505.18777)
 - **25/01/23**: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025**!
-- **24/12/10**: Happy to introduce our new work about **Desire-driven Autonomous Agent (D2A)**! Click [here](https://sites.google.com/view/desire-driven-autonomy) for more details.
 - **24/12/06**: Our team (BIGAI NLCo) ranked **#9** in the NeurIPS 2024 Concordia Contest!
 
 ## Selected Papers
