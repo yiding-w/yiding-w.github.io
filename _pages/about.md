@@ -21,6 +21,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 ## News
 {: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
+- **25/09/25**: I'm honored to receive the **Xiaomi Scholarship!**
 - **25/09/23**：Our paper **Law in Silico: Simulating Legal Society with LLM-Based Agents** has been accepted by **NeurIPS 2025 LAW Workshop**, the paper will be released soon!
 - **25/09/19**: One paper accepted by **NeurIPS 2025 Dataset and Benchmark Track!**
 - **25/08/21**: Our paper: **[HD-PiSSA](https://arxiv.org/abs/2505.18777)** has been accepted to **EMNLP 2025 Main Conference！** <span style="color: red; font-weight: bold;">(ORAL)  
@@ -97,6 +98,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 ## Awards
 {: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
+- **Xiaomi Scholarship** (¥5,000 RMB) - 2025
 - **Tong Class Dean's Scholarship** (¥10,000 RMB) — 2025
 - **SenseTime Scholarship 2025** (¥20,000 RMB) — 2025 (*Only 30 winners nationwide*)
 - **Peking University Scholarship** (¥4,000 RMB) — 2024
