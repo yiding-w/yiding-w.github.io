@@ -52,7 +52,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
   <div style="flex: 1; min-width: 0;">
     <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">ArXiv</span>
     <br>
-    <a href="https://arxiv.org/pdf/2510.23595" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">MULTI-AGENT EVOLVE: LLM Self-Improve Through Co-Evolution</a>
+    <a href="https://arxiv.org/pdf/2510.23595" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution</a>
     <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
       Yixing Chen*, <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Siqi Zhu, Haofei Yu, Tao Feng, Muhan Zhang, Mostofa Patwary, Jiaxuan You.
     </div>
