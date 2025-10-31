@@ -32,7 +32,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 - **25/01/23**: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025**!
 - **24/12/06**: Our team (BIGAI NLCo) ranked **#9** in the NeurIPS 2024 Concordia Contest!
 
-## Selected Papers
+## Preprint Papers
 {: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
 <div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
@@ -60,6 +60,21 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 </div>
 
 <div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
+  <img src="images/LawinSilico" alt="Law in Silico" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
+  <div style="flex: 1; min-width: 0;">
+    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">NeurIPS LAW Workshop</span>
+    <br>
+    <a href="https://arxiv.org/pdf/2510.24442" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Law in Silico: Simulating Legal Society with LLM-Based Agents</a>
+    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
+      <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Yuxuan Chen*, Fanxu Meng, Xifan Chen, Xiaolei Yang, Muhan Zhang.
+    </div>
+  </div>
+</div>
+
+## Selected Publications
+{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
+
+<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
   <img src="images/HD-PiSSA" alt="HD-PiSSA" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
   <div style="flex: 1; min-width: 0;">
     <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">EMNLP 2025 Oral</span>
@@ -79,30 +94,6 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
     <a href="https://arxiv.org/abs/2412.06435" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Simulating Human-like Daily Activities with Desire-driven Autonomy</a>
     <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
       <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Yuxuan Chen*, Fangwei Zhong, Long Ma, Yizhou Wang.
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/LawinSilico" alt="Law in Silico" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
-  <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">NeurIPS LAW Workshop</span>
-    <br>
-    <a href="https://arxiv.org/pdf/2510.24442" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Law in Silico: Simulating Legal Society with LLM-Based Agents</a>
-    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
-      <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Yuxuan Chen*, Fanxu Meng, Xifan Chen, Xiaolei Yang, Muhan Zhang.
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/CoI" alt="CoI" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
-  <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">Arxiv</span>
-    <br>
-    <a href="https://arxiv.org/abs/2311.09241" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Chain of Images for Intuitively Reasoning</a>
-    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
-      Fanxu Meng, Haotong Yang, <strong style="color: #2d3748; font-weight: 600;">Yiding Wang</strong>, Muhan Zhang.
     </div>
   </div>
 </div>
