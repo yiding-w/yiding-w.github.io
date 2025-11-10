@@ -24,7 +24,7 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 - **25/10/28**: Introducing **[Multi-Agent Evolve](https://arxiv.org/pdf/2510.23595)** and **[Law in Silico](https://arxiv.org/pdf/2510.24442)!**
 - **25/10/06**: Introducing **[DeSA](https://github.com/yiding-w/DeSA)**, a two-stage training framework for search agents!  
 - **25/09/25**: I'm honored to receive the **Xiaomi Scholarship!**
-- **25/09/23**：Our paper **Law in Silico: Simulating Legal Society with LLM-Based Agents** has been accepted by **NeurIPS 2025 LAW Workshop**, the paper will be released soon!
+- **25/09/23**：Our paper **Law in Silico: Simulating Legal Society with LLM-Based Agents** has been accepted by **NeurIPS 2025 LAW Workshop**!
 - **25/09/19**: One paper accepted by **NeurIPS 2025 Dataset and Benchmark Track!**
 - **25/08/21**: Our paper: **[HD-PiSSA](https://arxiv.org/abs/2505.18777)** has been accepted to **EMNLP 2025 Main Conference！** <span style="color: red; font-weight: bold;">(ORAL)</span>
 - **25/07/12**: I'm honored to receive the **Tong Class Dean's Scholarship!**
