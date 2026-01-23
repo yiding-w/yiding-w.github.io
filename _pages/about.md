@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yiding Wang, a senior undergraduate student at Peking University, majoring in Artificial Intelligence. Currently, I am a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on Large Language Models (LLMs) reasoning and Parameter-Efficient Fine-Tuning (PEFT).
+I am Yiding Wang, a senior undergraduate student at Peking University, majoring in Artificial Intelligence. Currently, I am a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on Large Language Models (LLMs) reasoning and continual learning.
 
 Previously, I conducted research in the Beijing Institute for General Artificial Intelligence (BIGAI), developing human-like social agents under the mentorship of Prof. Fangwei Zhong. I also had the privilege to visit Prof. Yu Meng and Prof. Jiaxuan You's lab as an intern.
 
