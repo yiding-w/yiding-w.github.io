@@ -16,11 +16,13 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 1. The revolution leads to the next generation of foundational models.
 2. Adapting foundation models more effectively to the field of agents, aiming to construct agents with general intelligence (e.g., social interaction, adaptive decision-making, long-horizon planning).
 
-## Blog
+## Blogs
+{: #blogs}
 
 - **[Let Your LLMs Use New Knowledge with "PaST" Skills](https://past-blog.notion.site/)**
 
 ## News
+{: #news}
 
 - **26/01/23**: New preprint **PaST: Parametric Skill Transfer**. [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **25/10/28**: Introducing **[Multi-Agent Evolve](https://arxiv.org/pdf/2510.23595)** and **[Law in Silico](https://arxiv.org/pdf/2510.24442)!**
@@ -34,6 +36,7 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 - **25/01/23**: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025**!
 
 ## Preprint Papers
+{: #preprint-papers}
 
 <div class="publication-card">
   <img src="images/PaST" alt="PaST" class="publication-image" />

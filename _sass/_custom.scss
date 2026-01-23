@@ -98,7 +98,7 @@ h3 {
 }
 
 .publication-title:hover {
-  color: #3b82f6;
+  color: #4a5568;
   text-decoration: none;
 }
 
@@ -160,15 +160,47 @@ h3 {
   text-decoration: none;
 }
 
+/* Navigation Links - Black */
+.greedy-nav a {
+  color: #1a202c !important;
+}
+
+.greedy-nav a:hover {
+  color: #4a5568 !important;
+}
+
+.masthead__menu-item--lg a {
+  color: #1a202c !important;
+}
+
+.masthead__menu-item--lg a:hover {
+  color: #4a5568 !important;
+}
+
+/* Navigation Layout - Right Aligned */
+.masthead__inner-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.masthead__menu {
+  margin-left: auto;
+}
+
+.greedy-nav .visible-links {
+  margin-left: auto;
+}
+
 /* Enhanced Links */
 a {
-  color: #3b82f6;
+  color: #1a202c;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #1d4ed8;
+  color: #4a5568;
   text-decoration: underline;
 }
 
