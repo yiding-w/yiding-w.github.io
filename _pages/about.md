@@ -7,125 +7,127 @@ redirect_from:
   - /about.html
 ---
 
-I am Yiding Wang, a senior undergraduate student at [Peking University](https://www.pku.edu.cn/), majoring in Artificial Intelligence. Currently, I am a member of [Mμ Lab](http://mulabpku.com/), advised by Prof. [Muhan Zhang](https://muhanzhang.github.io). My research in [Mμ Lab](http://mulabpku.com/) focuses on Large Language Models (LLMs) Reasoning and Parameter-Efficient Fine-Tuning (PEFT). 
+I am Yiding Wang, a senior undergraduate student at Peking University, majoring in Artificial Intelligence. Currently, I am a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on Large Language Models (LLMs) reasoning and Parameter-Efficient Fine-Tuning (PEFT).
 
-Previously, I conducted research in [Beijing Institute for General Artificial Intelligence (BIGAI)](https://eng.bigai.ai/), developing human-like social agents under the mentorship of Prof. [Fangwei Zhong](https://fangweizhong.xyz/). I am also fortunate to visit Prof. [Yu Meng](https://yumeng5.github.io/) and Prof. [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/)'s Lab and collaborate with them as an intern.
+<div class="intro-links">
+  <a class="link-chip" href="https://www.pku.edu.cn/">Peking University</a>
+  <a class="link-chip" href="http://mulabpku.com/">Mμ Lab</a>
+  <a class="link-chip" href="https://muhanzhang.github.io">Prof. Muhan Zhang</a>
+</div>
+
+Previously, I conducted research in the Beijing Institute for General Artificial Intelligence (BIGAI), developing human-like social agents under the mentorship of Prof. Fangwei Zhong. I also had the privilege to visit Prof. Yu Meng and Prof. Jiaxuan You's lab as an intern.
+
+<div class="intro-links">
+  <a class="link-chip" href="https://eng.bigai.ai/">BIGAI</a>
+  <a class="link-chip" href="https://fangweizhong.xyz/">Prof. Fangwei Zhong</a>
+  <a class="link-chip" href="https://yumeng5.github.io/">Prof. Yu Meng</a>
+  <a class="link-chip" href="https://cs.stanford.edu/~jiaxuan/">Prof. Jiaxuan You</a>
+</div>
 
 **Research Interests:**
 
 1. The revolution leads to the next generation of foundational models.
 2. Adapting foundation models more effectively to the field of agents, aiming to construct agents with general intelligence (e.g., social interaction, adaptive decision-making, long-horizon planning).
 
+## Blog
 
+- **PaST: Parametric Skill Transfer** — A short overview and visuals. [Read the blog](/blog/past/)
 
 ## News
-{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
+- **26/01/23**: New preprint **PaST: Parametric Skill Transfer**. [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **25/10/28**: Introducing **[Multi-Agent Evolve](https://arxiv.org/pdf/2510.23595)** and **[Law in Silico](https://arxiv.org/pdf/2510.24442)!**
 - **25/10/06**: Introducing **[DeSA](https://github.com/yiding-w/DeSA)**, a two-stage training framework for search agents!  
-- **25/09/25**: I'm honored to receive the **Xiaomi Scholarship!**
+- **25/09/25**: I'm honored to receive the **Xiaomi Scholarship** and **Peking University Scientific Research Award!**
 - **25/09/23**：Our paper **Law in Silico: Simulating Legal Society with LLM-Based Agents** has been accepted by **NeurIPS 2025 LAW Workshop**, the paper will be released soon!
 - **25/09/19**: One paper accepted by **NeurIPS 2025 Dataset and Benchmark Track!**
 - **25/08/21**: Our paper: **[HD-PiSSA](https://arxiv.org/abs/2505.18777)** has been accepted to **EMNLP 2025 Main Conference！** <span style="color: red; font-weight: bold;">(ORAL)</span>
 - **25/07/12**: I'm honored to receive the **Tong Class Dean's Scholarship!**
 - **25/06/12**: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
 - **25/01/23**: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025**!
-- **24/12/06**: Our team (BIGAI NLCo) ranked **#9** in the NeurIPS 2024 Concordia Contest!
 
 ## Preprint Papers
-{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
-<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/DeSA" alt="DeSA" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
-  <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">ArXiv</span>
-    <br>
-    <a href="https://arxiv.org/abs/2510.04695" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Beyond Outcome Reward: Decoupling Search and Answering Improves LLM Agents</a>
-    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
-      <strong style="color: #2d3748; font-weight: 600;">Yiding Wang</strong>, Zhepei Wei, Xinyu Zhu, Yu Meng.
+<div class="publication-card">
+  <img src="images/PaST" alt="PaST" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">ArXiv</span>
+    <a href="https://arxiv.org/pdf/2601.11258" class="publication-title">Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation</a>
+    <div class="publication-authors">
+      Pingzhi Tang*, <strong>Yiding Wang*</strong>, Muhan Zhang.
+    </div>
+    <div class="publication-links">
+      <a class="publication-link" href="/blog/past/">Blog</a>
+      <a class="publication-link" href="https://arxiv.org/pdf/2601.11258">Paper</a>
     </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/MAE" alt="MAE" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
-  <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">ArXiv</span>
-    <br>
-    <a href="https://arxiv.org/pdf/2510.23595" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution</a>
-    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
-      Yixing Chen*, <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Siqi Zhu, Haofei Yu, Tao Feng, Muhan Zhang, Mostofa Patwary, Jiaxuan You.
+<div class="publication-card">
+  <img src="images/DeSA" alt="DeSA" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">ArXiv</span>
+    <a href="https://arxiv.org/abs/2510.04695" class="publication-title">Beyond Outcome Reward: Decoupling Search and Answering Improves LLM Agents</a>
+    <div class="publication-authors">
+      <strong>Yiding Wang</strong>, Zhepei Wei, Xinyu Zhu, Yu Meng.
     </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/LawinSilico" alt="Law in Silico" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
-  <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">NeurIPS LAW Workshop</span>
-    <br>
-    <a href="https://arxiv.org/pdf/2510.24442" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Law in Silico: Simulating Legal Society with LLM-Based Agents</a>
-    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
-      <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Yuxuan Chen*, Fanxu Meng, Xifan Chen, Xiaolei Yang, Muhan Zhang.
+<div class="publication-card">
+  <img src="images/MAE" alt="MAE" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">ArXiv</span>
+    <a href="https://arxiv.org/pdf/2510.23595" class="publication-title">Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution</a>
+    <div class="publication-authors">
+      Yixing Chen*, <strong>Yiding Wang*</strong>, Siqi Zhu, Haofei Yu, Tao Feng, Muhan Zhang, Mostofa Patwary, Jiaxuan You.
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <img src="images/LawinSilico" alt="Law in Silico" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">NeurIPS LAW Workshop</span>
+    <a href="https://arxiv.org/pdf/2510.24442" class="publication-title">Law in Silico: Simulating Legal Society with LLM-Based Agents</a>
+    <div class="publication-authors">
+      <strong>Yiding Wang*</strong>, Yuxuan Chen*, Fanxu Meng, Xifan Chen, Xiaolei Yang, Muhan Zhang.
     </div>
   </div>
 </div>
 
 ## Selected Publications
-{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
-<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/HD-PiSSA" alt="HD-PiSSA" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
-  <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">EMNLP 2025 Oral</span>
-    <br>
-    <a href="https://arxiv.org/abs/2505.18777" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">HD-PiSSA: High-Rank Distributed Orthogonal Adaptation</a>
-    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
-      <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Fauxu Meng*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang.
+<div class="publication-card">
+  <img src="images/HD-PiSSA" alt="HD-PiSSA" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">EMNLP 2025 Oral</span>
+    <a href="https://arxiv.org/abs/2505.18777" class="publication-title">HD-PiSSA: High-Rank Distributed Orthogonal Adaptation</a>
+    <div class="publication-authors">
+      <strong>Yiding Wang*</strong>, Fauxu Meng*, Xuefeng Zhang, Fan Jiang, Pingzhi Tang, Muhan Zhang.
     </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); flex-direction: row;">
-  <img src="images/D2A" alt="D2A" style="width: 180px; height: 120px; object-fit: contain; border-radius: 8px; margin-right: 1.5rem; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); flex-shrink: 0; background: #f8fafc;" />
-  <div style="flex: 1; min-width: 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.5rem;">ICLR 2025</span>
-    <br>
-    <a href="https://arxiv.org/abs/2412.06435" style="font-size: 1.1rem; font-weight: 600; color: #2d3748; text-decoration: none; line-height: 1.4; display: block; margin-bottom: 0.5rem;">Simulating Human-like Daily Activities with Desire-driven Autonomy</a>
-    <div style="color: #718096; font-size: 0.95rem; line-height: 1.5;">
-      <strong style="color: #2d3748; font-weight: 600;">Yiding Wang*</strong>, Yuxuan Chen*, Fangwei Zhong, Long Ma, Yizhou Wang.
+<div class="publication-card">
+  <img src="images/D2A" alt="D2A" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">ICLR 2025</span>
+    <a href="https://arxiv.org/abs/2412.06435" class="publication-title">Simulating Human-like Daily Activities with Desire-driven Autonomy</a>
+    <div class="publication-authors">
+      <strong>Yiding Wang*</strong>, Yuxuan Chen*, Fangwei Zhong, Long Ma, Yizhou Wang.
     </div>
   </div>
 </div>
-
-<style>
-@media (max-width: 768px) {
-  div[style*="display: flex"] {
-    flex-direction: column !important;
-    text-align: center;
-  }
-  
-  div[style*="display: flex"] img {
-    width: 100% !important;
-    max-width: 300px !important;
-    height: 200px !important;
-    margin-right: 0 !important;
-    margin-bottom: 1rem !important;
-    object-fit: contain !important;
-    background: #f8fafc !important;
-  }
-}
-</style>
 
 ## Service
-{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
 - **AAAI 2026** (Social Impact Track) Reviewer
 - **ICLR 2026** Reviewer
 
 ## Awards
-{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
+- **Peking University Scientific Research Award** - 2025
 - **Xiaomi Scholarship** (¥5,000 RMB) - 2025
 - **Tong Class Dean's Scholarship** (¥10,000 RMB) — 2025
 - **SenseTime Scholarship 2025** (¥20,000 RMB) — 2025 (*Only 30 winners nationwide*)
@@ -135,7 +137,6 @@ Previously, I conducted research in [Beijing Institute for General Artificial In
 - **Peking University Excellent Student Award** — 2023  
 
 ## Pageviewers
-{: style="color: #2d3748; font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; margin-bottom: 1rem;"}
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&co=2d98ad&cmo=d8872d&cmn=fce780'></script>
 
