@@ -9,20 +9,7 @@ redirect_from:
 
 I am Yiding Wang, a senior undergraduate student at Peking University, majoring in Artificial Intelligence. Currently, I am a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on Large Language Models (LLMs) reasoning and Parameter-Efficient Fine-Tuning (PEFT).
 
-<div class="intro-links">
-  <a class="link-chip" href="https://www.pku.edu.cn/">Peking University</a>
-  <a class="link-chip" href="http://mulabpku.com/">Mμ Lab</a>
-  <a class="link-chip" href="https://muhanzhang.github.io">Prof. Muhan Zhang</a>
-</div>
-
 Previously, I conducted research in the Beijing Institute for General Artificial Intelligence (BIGAI), developing human-like social agents under the mentorship of Prof. Fangwei Zhong. I also had the privilege to visit Prof. Yu Meng and Prof. Jiaxuan You's lab as an intern.
-
-<div class="intro-links">
-  <a class="link-chip" href="https://eng.bigai.ai/">BIGAI</a>
-  <a class="link-chip" href="https://fangweizhong.xyz/">Prof. Fangwei Zhong</a>
-  <a class="link-chip" href="https://yumeng5.github.io/">Prof. Yu Meng</a>
-  <a class="link-chip" href="https://cs.stanford.edu/~jiaxuan/">Prof. Jiaxuan You</a>
-</div>
 
 **Research Interests:**
 
@@ -31,7 +18,7 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 
 ## Blog
 
-- **PaST: Parametric Skill Transfer** — A short overview and visuals. [Read the blog](/blog/past/)
+- **[Let Your LLMs Use New Knowledge with "PaST" Skills](https://past-blog.notion.site/)**
 
 ## News
 
