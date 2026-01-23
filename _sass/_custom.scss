@@ -14,7 +14,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   line-height: 1.4;
   margin-bottom: 1rem;
-  color: #1a202c;
   letter-spacing: -0.01em;
 }
 
@@ -27,8 +26,8 @@ h1 {
 h2 {
   font-size: 1.5rem;
   font-weight: 500;
-  color: #2d3748;
-  border-bottom: 1px solid #e2e8f0;
+  color: #374151;
+  border-bottom: 1px solid #e5e7eb;
   padding-bottom: 0.5rem;
   margin-top: 2rem;
   margin-bottom: 1.2rem;
@@ -37,7 +36,7 @@ h2 {
 h3 {
   font-size: 1.25rem;
   font-weight: 500;
-  color: #4a5568;
+  color: #4b5563;
   margin-top: 1.5rem;
   margin-bottom: 0.8rem;
 }
@@ -91,7 +90,7 @@ h3 {
 .publication-title {
   font-size: 1.1rem;
   font-weight: 600;
-  color: #2d3748;
+  color: #374151;
   text-decoration: none;
   line-height: 1.4;
   display: block;
@@ -99,18 +98,18 @@ h3 {
 }
 
 .publication-title:hover {
-  color: #4a5568;
+  color: #1f2937;
   text-decoration: none;
 }
 
 .publication-authors {
-  color: #718096;
+  color: #6b7280;
   font-size: 0.95rem;
   line-height: 1.5;
 }
 
 .publication-authors strong {
-  color: #2d3748;
+  color: #374151;
   font-weight: 600;
 }
 
@@ -161,13 +160,13 @@ h3 {
   text-decoration: none;
 }
 
-/* Navigation Links - Black */
+/* Navigation Links - Subtle color variation */
 .greedy-nav a {
-  color: #1a202c !important;
+  color: #4a5568 !important;
 }
 
 .greedy-nav a:hover {
-  color: #4a5568 !important;
+  color: #2d3748 !important;
 }
 
 .masthead__menu-item--lg a {
@@ -175,7 +174,7 @@ h3 {
 }
 
 .masthead__menu-item--lg a:hover {
-  color: #4a5568 !important;
+  color: #2d3748 !important;
 }
 
 /* Navigation Layout - Ensure proper spacing and visibility */
@@ -196,16 +195,27 @@ h3 {
   margin-right: 2rem;
 }
 
-/* Enhanced Links */
+/* Enhanced Links - Subtle blue-gray for variety */
 a {
-  color: #1a202c;
+  color: #4a5568;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #4a5568;
+  color: #2d3748;
   text-decoration: underline;
+}
+
+/* Special styling for publication and external links */
+.publication-title,
+.archive__item-title a {
+  color: #2d3748;
+}
+
+.publication-title:hover,
+.archive__item-title a:hover {
+  color: #4a5568;
 }
 
 /* Responsive Design */
