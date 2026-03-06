@@ -25,9 +25,6 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 {: #news}
 
 - **26/03/06**: Our paper **PaST** has been accepted as <span style="color: red; font-weight: bold;">Spotlight</span> by **ICLR 2026 RSI Workshop** (21/110 accepted papers)! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
-- **26/01/23**: New preprint **PaST: Parametric Skill Transfer**. [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
-- **25/10/28**: Introducing **[Multi-Agent Evolve](https://arxiv.org/pdf/2510.23595)** and **[Law in Silico](https://arxiv.org/pdf/2510.24442)!**
-- **25/10/06**: Introducing **[DeSA](https://github.com/yiding-w/DeSA)**, a two-stage training framework for search agents!  
 - **25/09/25**: I'm honored to receive the **Xiaomi Scholarship** and **Peking University Scientific Research Award!**
 - **25/09/23**：Our paper **Law in Silico: Simulating Legal Society with LLM-Based Agents** has been accepted by **NeurIPS 2025 LAW Workshop**, the paper will be released soon!
 - **25/09/19**: One paper accepted by **NeurIPS 2025 Dataset and Benchmark Track!**
@@ -42,7 +39,7 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 <div class="publication-card">
   <img src="images/PaST" alt="PaST" class="publication-image" />
   <div class="publication-content">
-    <span class="publication-venue">ICLR RSI Workshop <span style="color: red; font-weight: bold;">Spotlight</span></span>
+    <span class="publication-venue">ICLR RSI Workshop Spotlight</span>
     <a href="https://arxiv.org/pdf/2601.11258" class="publication-title">Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation</a>
     <div class="publication-authors">
       Pingzhi Tang*, <strong>Yiding Wang*</strong>, Muhan Zhang.
