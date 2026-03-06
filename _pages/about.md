@@ -114,7 +114,7 @@ Previously, I conducted research in the Beijing Institute for General Artificial
     <span class="publication-venue">NeurIPS 2025 D&B Track</span>
     <a href="https://arxiv.org/abs/2512.03318" class="publication-title">Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia</a>
     <div class="publication-authors">
-      Chandler Smith, Marwa Abdulhai, ..., Joel Z. Leibo, <strong>Yiding Wang</strong>, et al.
+      Chandler Smith, Marwa Abdulhai, ..., <strong>Yiding Wang</strong>, ..., Joel Z. Leibo, et al.
     </div>
   </div>
 </div>
