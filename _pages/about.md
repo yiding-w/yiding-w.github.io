@@ -108,6 +108,17 @@ Previously, I conducted research in the Beijing Institute for General Artificial
   </div>
 </div>
 
+<div class="publication-card">
+  <img src="images/Concordia" alt="Concordia" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">NeurIPS 2025 D&B Track</span>
+    <a href="https://arxiv.org/abs/2512.03318" class="publication-title">Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia</a>
+    <div class="publication-authors">
+      Chandler Smith, Marwa Abdulhai, ..., Joel Z. Leibo, <strong>Yiding Wang</strong>, et al.
+    </div>
+  </div>
+</div>
+
 ## Service
 
 - **AAAI 2026** (Social Impact Track) Reviewer
