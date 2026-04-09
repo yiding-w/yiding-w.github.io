@@ -24,6 +24,8 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 ## News
 {: #news}
 
+- **26/04/09**: Our paper **PaST** has been accepted by **ACL 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
+- **26/04/09**: Our paper **Law in Silico** has been accepted by **ACL 2026 Findings** (previously at NeurIPS 2025 LAW Workshop)!
 - **26/03/06**: Our paper **PaST** has been accepted as <span style="color: red; font-weight: bold;">Spotlight</span> by **ICLR 2026 RSI Workshop** (21/110 accepted papers)! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **25/09/25**: I'm honored to receive the **Xiaomi Scholarship** and **Peking University Scientific Research Award!**
 - **25/09/23**：Our paper **Law in Silico: Simulating Legal Society with LLM-Based Agents** has been accepted by **NeurIPS 2025 LAW Workshop**, the paper will be released soon!
@@ -35,21 +37,6 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 
 ## Preprint Papers
 {: #preprint-papers}
-
-<div class="publication-card">
-  <img src="images/PaST" alt="PaST" class="publication-image" />
-  <div class="publication-content">
-    <span class="publication-venue">ICLR RSI Workshop Spotlight</span>
-    <a href="https://arxiv.org/pdf/2601.11258" class="publication-title">Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation</a>
-    <div class="publication-authors">
-      Pingzhi Tang*, <strong>Yiding Wang*</strong>, Muhan Zhang.
-    </div>
-    <div class="publication-links">
-      <a class="publication-link" href="/blog/past/">Blog</a>
-      <a class="publication-link" href="https://arxiv.org/pdf/2601.11258">Paper</a>
-    </div>
-  </div>
-</div>
 
 <div class="publication-card">
   <img src="images/DeSA" alt="DeSA" class="publication-image" />
@@ -73,18 +60,34 @@ Previously, I conducted research in the Beijing Institute for General Artificial
   </div>
 </div>
 
+
+## Selected Publications
+
+<div class="publication-card">
+  <img src="images/PaST" alt="PaST" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">ACL 2026 Main | ICLR RSI Workshop Spotlight</span>
+    <a href="https://arxiv.org/pdf/2601.11258" class="publication-title">Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation</a>
+    <div class="publication-authors">
+      Pingzhi Tang*, <strong>Yiding Wang*</strong>, Muhan Zhang.
+    </div>
+    <div class="publication-links">
+      <a class="publication-link" href="/blog/past/">Blog</a>
+      <a class="publication-link" href="https://arxiv.org/pdf/2601.11258">Paper</a>
+    </div>
+  </div>
+</div>
+
 <div class="publication-card">
   <img src="images/LawinSilico" alt="Law in Silico" class="publication-image" />
   <div class="publication-content">
-    <span class="publication-venue">NeurIPS LAW Workshop</span>
+    <span class="publication-venue">ACL 2026 Findings | NeurIPS LAW Workshop</span>
     <a href="https://arxiv.org/pdf/2510.24442" class="publication-title">Law in Silico: Simulating Legal Society with LLM-Based Agents</a>
     <div class="publication-authors">
       <strong>Yiding Wang*</strong>, Yuxuan Chen*, Fanxu Meng, Xifan Chen, Xiaolei Yang, Muhan Zhang.
     </div>
   </div>
 </div>
-
-## Selected Publications
 
 <div class="publication-card">
   <img src="images/HD-PiSSA" alt="HD-PiSSA" class="publication-image" />
