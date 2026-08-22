@@ -24,6 +24,8 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 ## News
 {: #news}
 
+- **26/08/21**: Our paper **Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution** has been accepted by **EMNLP 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2510.23595)
+- **26/08/21**: New preprint: **[ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?](https://arxiv.org/abs/2608.03874)**, featured by **dair.ai**! [Post](https://x.com/dair_ai/status/2085084179201704004)
 - **26/04/09**: Our paper **PaST** has been accepted by **ACL 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **26/04/09**: Our paper **Law in Silico** has been accepted by **ACL 2026 Findings** (previously at NeurIPS 2025 LAW Workshop)!
 - **26/03/06**: Our paper **PaST** has been accepted as <span style="color: red; font-weight: bold;">Spotlight</span> by **ICLR 2026 RSI Workshop** (21/110 accepted papers)! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
@@ -39,6 +41,21 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 {: #preprint-papers}
 
 <div class="publication-card">
+  <img src="images/ContinualSkillBench" alt="ContinualSkillBench" class="publication-image" />
+  <div class="publication-content">
+    <span class="publication-venue">ArXiv</span>
+    <a href="https://arxiv.org/abs/2608.03874" class="publication-title">ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?</a>
+    <div class="publication-authors">
+      Tianyi Guan, <strong>Yiding Wang</strong>, Haotong Yang, Siyuan Cao, Shirui Liu, Yi Hu, Jiaqi Li, Muhan Zhang.
+    </div>
+    <div class="publication-links">
+      <a class="publication-link" href="https://arxiv.org/abs/2608.03874">Paper</a>
+      <a class="publication-link" href="https://x.com/dair_ai/status/2085084179201704004">dair.ai Post</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
   <img src="images/DeSA" alt="DeSA" class="publication-image" />
   <div class="publication-content">
     <span class="publication-venue">ArXiv</span>
@@ -49,19 +66,18 @@ Previously, I conducted research in the Beijing Institute for General Artificial
   </div>
 </div>
 
+## Selected Publications
+
 <div class="publication-card">
   <img src="images/MAE" alt="MAE" class="publication-image" />
   <div class="publication-content">
-    <span class="publication-venue">ArXiv</span>
+    <span class="publication-venue">EMNLP 2026 Main</span>
     <a href="https://arxiv.org/pdf/2510.23595" class="publication-title">Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution</a>
     <div class="publication-authors">
       Yixing Chen*, <strong>Yiding Wang*</strong>, Siqi Zhu, Haofei Yu, Tao Feng, Muhan Zhang, Mostofa Patwary, Jiaxuan You.
     </div>
   </div>
 </div>
-
-
-## Selected Publications
 
 <div class="publication-card">
   <img src="images/PaST" alt="PaST" class="publication-image" />
@@ -141,6 +157,5 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 ## Pageviewers
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&co=2d98ad&cmo=d8872d&cmn=fce780'></script>
-
 
 
