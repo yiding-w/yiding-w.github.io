@@ -46,7 +46,7 @@ Previously, I conducted research in the Beijing Institute for General Artificial
     <span class="publication-venue">ArXiv</span>
     <a href="https://arxiv.org/abs/2608.03874" class="publication-title">ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?</a>
     <div class="publication-authors">
-      Tianyi Guan, <strong>Yiding Wang</strong>, Haotong Yang, Siyuan Cao, Shirui Liu, Yi Hu, Jiaqi Li, Muhan Zhang.
+      Tianyi Guan*, <strong>Yiding Wang*</strong>, Haotong Yang, Siyuan Cao, Shirui Liu, Yi Hu, Jiaqi Li, Muhan Zhang.
     </div>
     <div class="publication-links">
       <a class="publication-link" href="https://arxiv.org/abs/2608.03874">Paper</a>
@@ -140,11 +140,12 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 
 ## Service
 
-- **AAAI 2026** (Social Impact Track) Reviewer
+- **AAAI 2026 & 2027** (Social Impact Track) Reviewer
 - **ICLR 2026** Reviewer
 
 ## Awards
 
+- **Yuanpei Youth Scholar** — 2026
 - **Peking University Scientific Research Award** - 2025
 - **Xiaomi Scholarship** (¥5,000 RMB) - 2025
 - **Tong Class Dean's Scholarship** (¥10,000 RMB) — 2025
@@ -157,5 +158,4 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 ## Pageviewers
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&co=2d98ad&cmo=d8872d&cmn=fce780'></script>
-
 
