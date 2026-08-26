@@ -330,21 +330,29 @@ a:hover {
 }
 
 .home-profile .news-scroll {
-  max-height: 17rem;
+  height: 15.5rem;
   margin: 0;
-  padding-right: 0.75rem;
-  overflow-y: auto;
-  scrollbar-color: #c9b7bd transparent;
-  scrollbar-width: thin;
+  padding-right: 0.4rem;
+  overflow-y: scroll;
+  overscroll-behavior: contain;
+  scrollbar-color: #9ca3af #f1f1f1;
+  scrollbar-gutter: stable;
+  scrollbar-width: auto;
 }
 
 .home-profile .news-scroll::-webkit-scrollbar {
-  width: 6px;
+  width: 10px;
+}
+
+.home-profile .news-scroll::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background: #f1f1f1;
 }
 
 .home-profile .news-scroll::-webkit-scrollbar-thumb {
-  border-radius: 999px;
-  background: #c9b7bd;
+  border: 2px solid #f1f1f1;
+  border-radius: 5px;
+  background: #9ca3af;
 }
 
 .home-profile .news-scroll ul {
