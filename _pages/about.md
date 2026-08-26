@@ -145,6 +145,7 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 
 ## Awards
 
+- **Peking University Outstanding Graduate** — 2026
 - **Yuanpei Youth Scholar** — 2026
 - **Peking University Scientific Research Award** - 2025
 - **Xiaomi Scholarship** (¥5,000 RMB) - 2025
@@ -158,4 +159,3 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 ## Pageviewers
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&co=2d98ad&cmo=d8872d&cmn=fce780'></script>
-

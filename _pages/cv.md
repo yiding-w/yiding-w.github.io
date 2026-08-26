@@ -87,6 +87,7 @@ Beijing, China
 
 ## Awards
 
+- **Peking University Outstanding Graduate**, 2026  
 - **Peking University Scholarship** (¥4000 RMB), 2024  
 - **Yanchuang Capital Scholarship** (¥8000 RMB), 2023  
 - **Peking University Excellent Student Award**, 2023  
