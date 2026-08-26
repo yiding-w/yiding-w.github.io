@@ -329,27 +329,32 @@ a:hover {
   font-size: 1.08rem;
 }
 
-.home-profile #news + ul {
+.home-profile .news-scroll {
   max-height: 17rem;
   margin: 0;
-  padding: 0 0.75rem 0 1.15rem;
-  border-left: 1px solid var(--line);
-  list-style: none;
+  padding-right: 0.75rem;
   overflow-y: auto;
   scrollbar-color: #c9b7bd transparent;
   scrollbar-width: thin;
 }
 
-.home-profile #news + ul::-webkit-scrollbar {
+.home-profile .news-scroll::-webkit-scrollbar {
   width: 6px;
 }
 
-.home-profile #news + ul::-webkit-scrollbar-thumb {
+.home-profile .news-scroll::-webkit-scrollbar-thumb {
   border-radius: 999px;
   background: #c9b7bd;
 }
 
-.home-profile #news + ul li {
+.home-profile .news-scroll ul {
+  margin: 0;
+  padding: 0 0 0 1.15rem;
+  border-left: 1px solid var(--line);
+  list-style: none;
+}
+
+.home-profile .news-scroll li {
   position: relative;
   margin: 0;
   padding: 0 0 1rem 0.85rem;
@@ -358,7 +363,7 @@ a:hover {
   line-height: 1.55;
 }
 
-.home-profile #news + ul li::before {
+.home-profile .news-scroll li::before {
   content: "";
   position: absolute;
   top: 0.48rem;

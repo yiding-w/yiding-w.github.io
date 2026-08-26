@@ -25,6 +25,8 @@ Previously, I conducted research at the Beijing Institute for General Artificial
 ## News
 {: #news}
 
+<div class="news-scroll" markdown="1">
+
 - **26/08/21**: Our paper **Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution** has been accepted by **EMNLP 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2510.23595)
 - **26/08/21**: New preprint: **[ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?](https://arxiv.org/abs/2608.03874)**, featured by **dair.ai**! [Post](https://x.com/dair_ai/status/2085084179201704004)
 - **26/04/09**: Our paper **PaST** has been accepted by **ACL 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
@@ -37,6 +39,8 @@ Previously, I conducted research at the Beijing Institute for General Artificial
 - **25/07/12**: I'm honored to receive the **Tong Class Dean's Scholarship!**
 - **25/06/12**: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
 - **25/01/23**: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025**!
+
+</div>
 
 ## Preprints
 {: #preprint-papers}
