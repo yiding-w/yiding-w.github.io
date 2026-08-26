@@ -266,102 +266,28 @@ a:hover {
   color: #4d5865;
 }
 
-.home-hero {
-  position: relative;
-  overflow: hidden;
-  margin: 0 0 1.65rem;
-  padding: 2.5rem 2.6rem 2.35rem;
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  background: linear-gradient(145deg, #fff 0%, var(--paper) 72%);
-}
-
-.home-hero::after {
-  content: "μ";
-  position: absolute;
-  right: 1.25rem;
-  bottom: -3.4rem;
-  color: rgba(140, 29, 64, 0.055);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 11rem;
-  line-height: 1;
-  pointer-events: none;
-}
-
-.home-eyebrow,
-.focus-index,
 .publication-venue {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
-.home-profile .home-eyebrow {
-  position: relative;
-  z-index: 1;
-  margin: 0 0 0.8rem;
-  color: var(--accent);
-  font-size: 0.72rem;
-  font-weight: 700;
+.home-intro {
+  max-width: 48rem;
+  margin: 0 0 2.6rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--line);
 }
 
-.home-hero h1 {
-  position: relative;
-  z-index: 1;
-  max-width: 680px;
-  margin: 0 0 1rem;
-  color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(2rem, 4.2vw, 3.35rem);
-  font-weight: 500;
-  line-height: 1.08;
-  letter-spacing: -0.035em;
-}
-
-.home-profile .home-lead {
-  position: relative;
-  z-index: 1;
-  max-width: 650px;
-  margin: 0;
+.home-intro p {
+  margin: 0 0 0.9rem;
   color: #4d5865;
-  font-size: 1.03rem;
+  font-size: 0.98rem;
   line-height: 1.72;
 }
 
-.research-focus {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-  margin: 1.7rem 0 3rem;
-}
-
-.focus-card {
-  padding: 1.35rem 1.45rem;
-  border-top: 3px solid var(--accent);
-  background: var(--paper);
-}
-
-.focus-index {
-  color: var(--accent);
-  font-size: 0.7rem;
-  font-weight: 700;
-}
-
-.home-profile .focus-card h2 {
-  margin: 0.35rem 0 0.45rem;
-  padding: 0;
-  border: 0;
-  color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.18rem;
-  font-weight: 600;
-}
-
-.focus-card p {
-  margin: 0;
-  color: var(--muted);
-  font-size: 0.9rem;
-  line-height: 1.6;
+.home-intro p:last-child {
+  margin-bottom: 0;
 }
 
 .home-profile > h2 {
@@ -404,10 +330,23 @@ a:hover {
 }
 
 .home-profile #news + ul {
+  max-height: 17rem;
   margin: 0;
-  padding: 0 0 0 1.15rem;
+  padding: 0 0.75rem 0 1.15rem;
   border-left: 1px solid var(--line);
   list-style: none;
+  overflow-y: auto;
+  scrollbar-color: #c9b7bd transparent;
+  scrollbar-width: thin;
+}
+
+.home-profile #news + ul::-webkit-scrollbar {
+  width: 6px;
+}
+
+.home-profile #news + ul::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: #c9b7bd;
 }
 
 .home-profile #news + ul li {
@@ -531,24 +470,6 @@ a:hover {
 }
 
 @media (max-width: 768px) {
-  .home-hero {
-    padding: 1.65rem 1.35rem;
-  }
-
-  .home-hero::after {
-    right: 0;
-    font-size: 8rem;
-  }
-
-  .home-hero h1 {
-    font-size: 2.2rem;
-  }
-
-  .research-focus {
-    grid-template-columns: 1fr;
-    margin-bottom: 2.25rem;
-  }
-
   .home-profile > h2 {
     margin-top: 2.5rem;
     font-size: 1.45rem;
@@ -716,4 +637,3 @@ code {
     width: 100%;
   }
 }
-

@@ -9,28 +9,15 @@ redirect_from:
 
 <div class="home-profile" markdown="1">
 
-<section class="home-hero">
-  <p class="home-eyebrow">Artificial Intelligence · Peking University</p>
-  <h1>Building language models that learn, reason, and evolve.</h1>
-  <p class="home-lead">I am <strong>Yiding Wang</strong>, a senior undergraduate student at Peking University and a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on large language model reasoning and continual learning.</p>
-</section>
+<div class="home-intro" markdown="1">
 
-Previously, I conducted research in the Beijing Institute for General Artificial Intelligence (BIGAI), developing human-like social agents under the mentorship of Prof. Fangwei Zhong. I also had the privilege to visit Prof. Yu Meng and Prof. Jiaxuan You's lab as an intern.
+I am **Yiding Wang**, a senior undergraduate student at Peking University, majoring in Artificial Intelligence. I am currently a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on large language model reasoning and continual learning. Starting in September 2026, I will pursue a Ph.D. at Peking University under the supervision of Prof. Muhan Zhang.
 
-<div class="research-focus">
-  <div class="focus-card">
-    <span class="focus-index">01</span>
-    <h2>Foundation Models</h2>
-    <p>Exploring the ideas and learning paradigms that could shape the next generation of foundation models.</p>
-  </div>
-  <div class="focus-card">
-    <span class="focus-index">02</span>
-    <h2>Generalist Agents</h2>
-    <p>Adapting foundation models into capable agents for social interaction, adaptive decision-making, and long-horizon planning.</p>
-  </div>
+Previously, I conducted research at the Beijing Institute for General Artificial Intelligence (BIGAI), developing human-like social agents under the mentorship of Prof. Fangwei Zhong. I also had the privilege of visiting Prof. Yu Meng and Prof. Jiaxuan You's labs as an intern.
+
 </div>
 
-## Writing
+## Blogs
 {: #blogs}
 
 - **[Let Your LLMs Use New Knowledge with "PaST" Skills](https://past-blog.notion.site/)**
