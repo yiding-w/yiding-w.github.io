@@ -1,22 +1,36 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Yiding Wang, a senior undergraduate student at Peking University, majoring in Artificial Intelligence. Currently, I am a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on Large Language Models (LLMs) reasoning and continual learning.
+<div class="home-profile" markdown="1">
+
+<section class="home-hero">
+  <p class="home-eyebrow">Artificial Intelligence · Peking University</p>
+  <h1>Building language models that learn, reason, and evolve.</h1>
+  <p class="home-lead">I am <strong>Yiding Wang</strong>, a senior undergraduate student at Peking University and a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on large language model reasoning and continual learning.</p>
+</section>
 
 Previously, I conducted research in the Beijing Institute for General Artificial Intelligence (BIGAI), developing human-like social agents under the mentorship of Prof. Fangwei Zhong. I also had the privilege to visit Prof. Yu Meng and Prof. Jiaxuan You's lab as an intern.
 
-**Research Interests:**
+<div class="research-focus">
+  <div class="focus-card">
+    <span class="focus-index">01</span>
+    <h2>Foundation Models</h2>
+    <p>Exploring the ideas and learning paradigms that could shape the next generation of foundation models.</p>
+  </div>
+  <div class="focus-card">
+    <span class="focus-index">02</span>
+    <h2>Generalist Agents</h2>
+    <p>Adapting foundation models into capable agents for social interaction, adaptive decision-making, and long-horizon planning.</p>
+  </div>
+</div>
 
-1. The revolution leads to the next generation of foundational models.
-2. Adapting foundation models more effectively to the field of agents, aiming to construct agents with general intelligence (e.g., social interaction, adaptive decision-making, long-horizon planning).
-
-## Blogs
+## Writing
 {: #blogs}
 
 - **[Let Your LLMs Use New Knowledge with "PaST" Skills](https://past-blog.notion.site/)**
@@ -37,7 +51,7 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 - **25/06/12**: I'm honored to be **1/30 of SenseTime Scholarship 2025!**
 - **25/01/23**: Our paper: **Simulating Human-like Activities with Desire-driven Autonomy** has been accepted by **ICLR'2025**!
 
-## Preprint Papers
+## Preprints
 {: #preprint-papers}
 
 <div class="publication-card">
@@ -159,3 +173,5 @@ Previously, I conducted research in the Beijing Institute for General Artificial
 ## Pageviewers
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=S3JmU8wqe9acM-xW-8iu3oxHh3lnUsFDYmt_GLx3rFU&co=2d98ad&cmo=d8872d&cmn=fce780'></script>
+
+</div>
