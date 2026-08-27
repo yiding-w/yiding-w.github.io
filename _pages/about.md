@@ -27,10 +27,9 @@ Previously, I conducted research at the Beijing Institute for General Artificial
 
 <div class="news-scroll" markdown="1">
 
-- **26/08/27**: Our paper **PaST** has been selected for an **Oral Presentation at ACL 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **26/08/21**: Our paper **Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution** has been accepted by **EMNLP 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2510.23595)
 - **26/08/21**: New preprint: **[ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?](https://arxiv.org/abs/2608.03874)**, featured by **dair.ai**! [Post](https://x.com/dair_ai/status/2085084179201704004)
-- **26/04/09**: Our paper **PaST** has been accepted by **ACL 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
+- **26/04/09**: Our paper **PaST** has been accepted by **ACL 2026 Main Conference (Oral)**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **26/04/09**: Our paper **Law in Silico** has been accepted by **ACL 2026 Findings** (previously at NeurIPS 2025 LAW Workshop)!
 - **26/03/06**: Our paper **PaST** has been accepted as <span style="color: red; font-weight: bold;">Spotlight</span> by **ICLR 2026 RSI Workshop** (21/110 accepted papers)! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **25/09/25**: I'm honored to receive the **Xiaomi Scholarship** and **Peking University Scientific Research Award!**
