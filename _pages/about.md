@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="home-intro" markdown="1">
 
-I am **Yiding Wang**, a senior undergraduate student at Peking University, majoring in Artificial Intelligence. I am currently a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on large language model reasoning and continual learning. Starting in September 2026, I will pursue a Ph.D. at Peking University under the supervision of Prof. Muhan Zhang.
+I am **Yiding Wang**. I recently graduated from Peking University with a bachelor's degree in Artificial Intelligence. I am currently a member of Mμ Lab, advised by Prof. Muhan Zhang. My research focuses on large language model reasoning and continual learning. Starting in September 2026, I will pursue a Ph.D. at Peking University under the supervision of Prof. Muhan Zhang.
 
 Previously, I conducted research at the Beijing Institute for General Artificial Intelligence (BIGAI), developing human-like social agents under the mentorship of Prof. Fangwei Zhong. I also had the privilege of visiting Prof. Yu Meng and Prof. Jiaxuan You's labs as an intern.
 
