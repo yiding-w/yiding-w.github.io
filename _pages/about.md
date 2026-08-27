@@ -27,6 +27,7 @@ Previously, I conducted research at the Beijing Institute for General Artificial
 
 <div class="news-scroll" markdown="1">
 
+- **26/08/27**: Our paper **PaST** has been selected for an **Oral Presentation at ACL 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
 - **26/08/21**: Our paper **Multi-Agent Evolve: LLM Self-Improve Through Co-Evolution** has been accepted by **EMNLP 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2510.23595)
 - **26/08/21**: New preprint: **[ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?](https://arxiv.org/abs/2608.03874)**, featured by **dair.ai**! [Post](https://x.com/dair_ai/status/2085084179201704004)
 - **26/04/09**: Our paper **PaST** has been accepted by **ACL 2026 Main Conference**! [Paper](https://arxiv.org/pdf/2601.11258) · [Blog](/blog/past/)
@@ -87,7 +88,7 @@ Previously, I conducted research at the Beijing Institute for General Artificial
 <div class="publication-card">
   <img src="images/PaST" alt="PaST" class="publication-image" />
   <div class="publication-content">
-    <span class="publication-venue">ACL 2026 Main | ICLR RSI Workshop Spotlight</span>
+    <span class="publication-venue">ACL 2026 Main Oral | ICLR RSI Workshop Spotlight</span>
     <a href="https://arxiv.org/pdf/2601.11258" class="publication-title">Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation</a>
     <div class="publication-authors">
       Pingzhi Tang*, <strong>Yiding Wang*</strong>, Muhan Zhang.
