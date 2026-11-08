@@ -146,7 +146,8 @@ Previously, I conducted research at the Beijing Institute for General Artificial
 ## Service
 
 - **AAAI 2026 & 2027** (Social Impact Track) Reviewer
-- **ICLR 2026** Reviewer
+- **ICLR 2026 & 2027** Reviewer
+- **ACL ARR 2026 October** Reviewer
 
 ## Awards
 
